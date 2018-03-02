@@ -74,10 +74,9 @@ def adding_matz
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },
-        :yukihiro_matsumoto => {
-          :known_for => "Ruby",
-           :languages => ["LISP", "C"]
-        },
+        # :yukihiro_matsumoto => {
+        #
+        # },
 
         :alan_kay => {
           :known_for => "Object Orientation",
